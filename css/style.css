@@ -65,7 +65,7 @@ header nav ul li a:hover{
 }
 header .nav__menu__wrapper{
     position: absolute;
-    height: 130px;
+    height: 150px;
     width: 200px;
     background-color: #fff7fad3;
     display: none;
