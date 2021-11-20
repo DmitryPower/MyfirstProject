@@ -1,0 +1,70 @@
+{
+  "news": [
+    {
+      "date": "21 June 2020",
+      "name": "Every day providing solutions to problems.",
+      "id": 1
+    },
+    {
+      "date": "22 June 2020",
+      "name": "New devices and applications come to the market.",
+      "id": 2
+    },
+    {
+      "date": "23 June 2020",
+      "name": "Technology is evolving rapidly. New devices and applications.",
+      "id": 3
+    }
+  ],
+  "requests": [
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 1
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 2
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 3
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 4
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 5
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 6
+    },
+    {
+      "name": "dmitry",
+      "email": "dmitrykiriushin@gmail.com",
+      "project": "sdfsfswdfsdfdsf",
+      "select_file": {},
+      "id": 7
+    }
+  ]
+}
